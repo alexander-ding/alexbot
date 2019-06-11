@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alexbot/precache-manifest.b748b6c14d57be60b81aa64afc0abb50.js"
+  "/alexbot/precache-manifest.e0beab2447181a21f71b1df53241cbc8.js"
 );
 
 self.addEventListener('message', (event) => {
