@@ -1,6 +1,6 @@
 # Alex Bot
 
-Alex Bot is a bot imitating my text style. It's made by scraping my own chat history with other people (hence the dataset is not made publically available). Check him out [here](http://alexding123.github.io/react-gh-pages)
+Alex Bot is a bot imitating my text style. It's made by scraping my own chat history with other people (hence the dataset is not made publically available). Check him out [here](http://alexding123.github.io/alexbot)
 
 This is made largely following these tutorials:
 
