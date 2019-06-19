@@ -1,6 +1,7 @@
 node_modules/
 .vscode/
 **/training_checkpoints/*
+**/reverse_training_checkpoints/*
 data/
 .ipynb_checkpoints/
 build/

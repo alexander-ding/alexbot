@@ -8,3 +8,9 @@ This is made largely following these tutorials:
 2. [Neural Machine Translation with Attention](https://www.tensorflow.org/beta/tutorials/text/nmt_with_attention)
 
 The server is in another [repository](https://github.com/alexding123/alexbot-server), hosted on heroku.
+
+## Getting Started
+
+1. Install `npm` (comes with `node.js`)
+2. `cd` into the project directory and run `npm install`
+3. `npm start` to develop!
