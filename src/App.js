@@ -9,7 +9,8 @@ import Button from 'react-bootstrap/Button';
 import './App.css';
 
 
-const API_URL = "https://alex-bot-api.herokuapp.com/";
+const ALEX_API_URL = "https://alex-bot-api.herokuapp.com/";
+const OTHER_API_URL = "https://other-bot-api.herokuapp.com/";
 
 function autoChat(props) {
   return <div className="rcw-response">
@@ -37,7 +38,9 @@ class App extends React.Component {
   }
   
   componentDidMount() {
-    fetch(API_URL).then(function() {
+    // call the servers to wake them up
+    fetch(OTHER_API_URL);
+    fetch(ALEX_API_URL).then(function() {
       console.log("Initialized");
     });
 
@@ -63,7 +66,7 @@ class App extends React.Component {
       if (!this.state.isAutoChat) {
         return;
       }
-      fetch(API_URL+"ChatAlex", {
+      fetch(ALEX_API_URL+"ChatAlex", {
         method: "POST",
         headers: {
           'Accept': 'application/json',
@@ -83,7 +86,7 @@ class App extends React.Component {
       if (!this.state.isAutoChat) {
         return;
       }
-      fetch(API_URL+"ChatOther", {
+      fetch(OTHER_API_URL+"ChatOther", {
         method: "POST",
         headers: {
           'Accept': 'application/json',
@@ -126,7 +129,7 @@ class App extends React.Component {
       this.handleAutoChat();
       return;
     }
-    fetch(API_URL+"ChatAlex", {
+    fetch(ALEX_API_URL+"ChatAlex", {
       method: "POST",
       headers: {
         'Accept': 'application/json',

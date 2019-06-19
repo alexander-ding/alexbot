@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "/alexbot/static/css/main.cfda8877.chunk.css",
-    "main.js": "/alexbot/static/js/main.5c8a4d96.chunk.js",
-    "main.js.map": "/alexbot/static/js/main.5c8a4d96.chunk.js.map",
+    "main.css": "/alexbot/static/css/main.2c7b2696.chunk.css",
+    "main.js": "/alexbot/static/js/main.f6decf06.chunk.js",
+    "main.js.map": "/alexbot/static/js/main.f6decf06.chunk.js.map",
     "runtime~main.js": "/alexbot/static/js/runtime~main.06615235.js",
     "runtime~main.js.map": "/alexbot/static/js/runtime~main.06615235.js.map",
-    "static/css/2.f25a7d98.chunk.css": "/alexbot/static/css/2.f25a7d98.chunk.css",
-    "static/js/2.20b50aad.chunk.js": "/alexbot/static/js/2.20b50aad.chunk.js",
-    "static/js/2.20b50aad.chunk.js.map": "/alexbot/static/js/2.20b50aad.chunk.js.map",
+    "static/css/2.f2beb6ae.chunk.css": "/alexbot/static/css/2.f2beb6ae.chunk.css",
+    "static/js/2.f3d8a6c9.chunk.js": "/alexbot/static/js/2.f3d8a6c9.chunk.js",
+    "static/js/2.f3d8a6c9.chunk.js.map": "/alexbot/static/js/2.f3d8a6c9.chunk.js.map",
     "index.html": "/alexbot/index.html",
-    "precache-manifest.e0beab2447181a21f71b1df53241cbc8.js": "/alexbot/precache-manifest.e0beab2447181a21f71b1df53241cbc8.js",
+    "precache-manifest.d234285456421cbf7a755eafb06f2fa5.js": "/alexbot/precache-manifest.d234285456421cbf7a755eafb06f2fa5.js",
     "service-worker.js": "/alexbot/service-worker.js",
-    "static/css/2.f25a7d98.chunk.css.map": "/alexbot/static/css/2.f25a7d98.chunk.css.map",
-    "static/css/main.cfda8877.chunk.css.map": "/alexbot/static/css/main.cfda8877.chunk.css.map",
-    "static/media/chat-icon.svg": "/alexbot/static/media/chat-icon.e0d2b748.svg",
-    "static/media/logo-no-bg.svg": "/alexbot/static/media/logo-no-bg.7718b3e3.svg",
-    "static/media/notification.mp3": "/alexbot/static/media/notification.0d062b33.mp3"
+    "static/css/2.f2beb6ae.chunk.css.map": "/alexbot/static/css/2.f2beb6ae.chunk.css.map",
+    "static/css/main.2c7b2696.chunk.css.map": "/alexbot/static/css/main.2c7b2696.chunk.css.map",
+    "static/media/Profile Pic.jpg": "/alexbot/static/media/Profile Pic.e2465325.jpg"
   }
 }
