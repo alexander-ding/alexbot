@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9ffc59bf72b5c21fb7c61a47fc66637",
+    "revision": "d54effd6aa772b7267f10b2a81517b39",
     "url": "/alexbot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alexbot/static/css/2.f2beb6ae.chunk.css"
   },
   {
-    "revision": "d0bc5c887617df813c51",
+    "revision": "42665735b4d21a34513c",
     "url": "/alexbot/static/css/main.2c7b2696.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alexbot/static/js/2.f3d8a6c9.chunk.js"
   },
   {
-    "revision": "d0bc5c887617df813c51",
-    "url": "/alexbot/static/js/main.f6decf06.chunk.js"
+    "revision": "42665735b4d21a34513c",
+    "url": "/alexbot/static/js/main.d1298689.chunk.js"
   },
   {
     "revision": "6ee41538d600aad68ff6",

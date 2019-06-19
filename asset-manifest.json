@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alexbot/static/css/main.2c7b2696.chunk.css",
-    "main.js": "/alexbot/static/js/main.f6decf06.chunk.js",
-    "main.js.map": "/alexbot/static/js/main.f6decf06.chunk.js.map",
+    "main.js": "/alexbot/static/js/main.d1298689.chunk.js",
+    "main.js.map": "/alexbot/static/js/main.d1298689.chunk.js.map",
     "runtime~main.js": "/alexbot/static/js/runtime~main.06615235.js",
     "runtime~main.js.map": "/alexbot/static/js/runtime~main.06615235.js.map",
     "static/css/2.f2beb6ae.chunk.css": "/alexbot/static/css/2.f2beb6ae.chunk.css",
     "static/js/2.f3d8a6c9.chunk.js": "/alexbot/static/js/2.f3d8a6c9.chunk.js",
     "static/js/2.f3d8a6c9.chunk.js.map": "/alexbot/static/js/2.f3d8a6c9.chunk.js.map",
     "index.html": "/alexbot/index.html",
-    "precache-manifest.d234285456421cbf7a755eafb06f2fa5.js": "/alexbot/precache-manifest.d234285456421cbf7a755eafb06f2fa5.js",
+    "precache-manifest.a8e2a01e9348e072aacfff75dd90b58b.js": "/alexbot/precache-manifest.a8e2a01e9348e072aacfff75dd90b58b.js",
     "service-worker.js": "/alexbot/service-worker.js",
     "static/css/2.f2beb6ae.chunk.css.map": "/alexbot/static/css/2.f2beb6ae.chunk.css.map",
     "static/css/main.2c7b2696.chunk.css.map": "/alexbot/static/css/main.2c7b2696.chunk.css.map",
