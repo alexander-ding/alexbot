@@ -1,3 +1,5 @@
+## THIS BOT IS CURRENTLY DOWN, SINCE HEROKU IS KINDA EXPENSIVE :(
+
 # Alex Bot
 
 Alex Bot is a bot imitating my text style. It's made by scraping my own chat history with other people (hence the dataset is not made publically available). Check him out [here](http://alexding123.github.io/alexbot)
